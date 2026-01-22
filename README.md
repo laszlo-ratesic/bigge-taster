@@ -11,6 +11,14 @@ A field service mobile application prototype built for Bigge Crane and Rigging's
 
 ---
 
+## Demo
+
+📱 **[Watch Demo Video](Demo.mp4)**
+
+> *Tip: For inline video playback on GitHub, edit this README on GitHub.com and drag-drop the Demo.mp4 file into the editor to generate an embedded video link.*
+
+---
+
 ## Overview
 
 WorkPro Mobile enables field technicians to manage service jobs, update statuses, and navigate to job sites—all synced in real-time with Salesforce.
