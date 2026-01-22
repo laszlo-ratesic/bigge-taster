@@ -41,7 +41,9 @@ app-example
 /ios
 /android
 
-.env*
+.env
+!.env.example
+
 api/WorkProApi/server.key
 api/WorkProApi/server.crt
 api/WorkProApi/server.crt
